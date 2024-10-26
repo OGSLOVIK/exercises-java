@@ -1,0 +1,15 @@
+
+import java.util.Scanner;
+
+public class test {
+    public static void main(String[] args) {
+        System.out.println("Witam w programie");
+
+        Scanner scaner = new Scanner(System.in);
+        System.out.print
+
+
+
+
+    }
+   }
